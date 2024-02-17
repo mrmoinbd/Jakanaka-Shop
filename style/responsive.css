@@ -1,0 +1,17 @@
+@media screen and ( max-width:576px){
+    .nav-container{
+        flex-direction: column;
+        gap: 10px;
+        height: auto;
+    }
+    .logo{
+        flex-direction: column;
+    }
+    .menu-bar>ul{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .primary-btn{
+        margin-bottom: 10px;
+    }
+}
